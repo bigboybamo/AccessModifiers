@@ -1,0 +1,14 @@
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\bin\Debug\net7.0\AccesModTutorial.exe
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\bin\Debug\net7.0\AccesModTutorial.deps.json
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\bin\Debug\net7.0\AccesModTutorial.runtimeconfig.json
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\bin\Debug\net7.0\AccesModTutorial.dll
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\bin\Debug\net7.0\AccesModTutorial.pdb
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\obj\Debug\net7.0\AccesModTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\obj\Debug\net7.0\AccesModTutorial.AssemblyInfoInputs.cache
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\obj\Debug\net7.0\AccesModTutorial.AssemblyInfo.cs
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\obj\Debug\net7.0\AccesModTutorial.csproj.CoreCompileInputs.cache
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\obj\Debug\net7.0\AccesModTutorial.dll
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\obj\Debug\net7.0\refint\AccesModTutorial.dll
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\obj\Debug\net7.0\AccesModTutorial.pdb
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\obj\Debug\net7.0\AccesModTutorial.genruntimeconfig.cache
+C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\obj\Debug\net7.0\ref\AccesModTutorial.dll
