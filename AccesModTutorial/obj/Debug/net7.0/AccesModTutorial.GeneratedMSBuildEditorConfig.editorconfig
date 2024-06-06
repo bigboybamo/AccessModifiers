@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AccesModTutorial
 build_property.ProjectDir = C:\Users\oyetu\source\repos\E3\AccesModTutorial\AccesModTutorial\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

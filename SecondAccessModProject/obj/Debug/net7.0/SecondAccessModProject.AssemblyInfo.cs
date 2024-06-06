@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecondAccessModProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24694183202be68c2dd0e319bc9a78c6de3d7c04")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecondAccessModProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecondAccessModProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

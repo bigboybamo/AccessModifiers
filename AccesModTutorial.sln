@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesModTutorial", "AccesModTutorial\AccesModTutorial.csproj", "{0AFF0632-CF41-42F1-A81D-DA559B88A569}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondAccessModProject", "SecondAccessModProject\SecondAccessModProject.csproj", "{1514F4E6-075B-4715-9ED2-757749A6D12D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0AFF0632-CF41-42F1-A81D-DA559B88A569}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AFF0632-CF41-42F1-A81D-DA559B88A569}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AFF0632-CF41-42F1-A81D-DA559B88A569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1514F4E6-075B-4715-9ED2-757749A6D12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1514F4E6-075B-4715-9ED2-757749A6D12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1514F4E6-075B-4715-9ED2-757749A6D12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1514F4E6-075B-4715-9ED2-757749A6D12D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

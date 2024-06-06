@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oyetu\\source\\repos\\E3\\AccesModTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1514F4E6-075B-4715-9ED2-757749A6D12D}|SecondAccessModProject\\SecondAccessModProject.csproj|c:\\users\\oyetu\\source\\repos\\e3\\accesmodtutorial\\secondaccessmodproject\\secondaccessmodproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1514F4E6-075B-4715-9ED2-757749A6D12D}|SecondAccessModProject\\SecondAccessModProject.csproj|solutionrelative:secondaccessmodproject\\secondaccessmodproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1514F4E6-075B-4715-9ED2-757749A6D12D}|SecondAccessModProject\\SecondAccessModProject.csproj|C:\\Users\\oyetu\\source\\repos\\E3\\AccesModTutorial\\secondaccessmodproject\\childexampleclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1514F4E6-075B-4715-9ED2-757749A6D12D}|SecondAccessModProject\\SecondAccessModProject.csproj|solutionrelative:secondaccessmodproject\\childexampleclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFF0632-CF41-42F1-A81D-DA559B88A569}|AccesModTutorial\\AccesModTutorial.csproj|C:\\Users\\oyetu\\source\\repos\\E3\\AccesModTutorial\\accesmodtutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFF0632-CF41-42F1-A81D-DA559B88A569}|AccesModTutorial\\AccesModTutorial.csproj|solutionrelative:accesmodtutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFF0632-CF41-42F1-A81D-DA559B88A569}|AccesModTutorial\\AccesModTutorial.csproj|C:\\Users\\oyetu\\source\\repos\\E3\\AccesModTutorial\\accesmodtutorial\\exampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFF0632-CF41-42F1-A81D-DA559B88A569}|AccesModTutorial\\AccesModTutorial.csproj|solutionrelative:accesmodtutorial\\exampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecondAccessModProject.csproj",
+              "DocumentMoniker": "C:\\Users\\oyetu\\source\\repos\\E3\\AccesModTutorial\\SecondAccessModProject\\SecondAccessModProject.csproj",
+              "RelativeDocumentMoniker": "SecondAccessModProject\\SecondAccessModProject.csproj",
+              "ToolTip": "C:\\Users\\oyetu\\source\\repos\\E3\\AccesModTutorial\\SecondAccessModProject\\SecondAccessModProject.csproj",
+              "RelativeToolTip": "SecondAccessModProject\\SecondAccessModProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-13T14:48:27.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChildExampleClass2.cs",
+              "DocumentMoniker": "C:\\Users\\oyetu\\source\\repos\\E3\\AccesModTutorial\\SecondAccessModProject\\ChildExampleClass2.cs",
+              "RelativeDocumentMoniker": "SecondAccessModProject\\ChildExampleClass2.cs",
+              "ToolTip": "C:\\Users\\oyetu\\source\\repos\\E3\\AccesModTutorial\\SecondAccessModProject\\ChildExampleClass2.cs",
+              "RelativeToolTip": "SecondAccessModProject\\ChildExampleClass2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-13T14:48:26.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExampleClass.cs",
+              "DocumentMoniker": "C:\\Users\\oyetu\\source\\repos\\E3\\AccesModTutorial\\AccesModTutorial\\ExampleClass.cs",
+              "RelativeDocumentMoniker": "AccesModTutorial\\ExampleClass.cs",
+              "ToolTip": "C:\\Users\\oyetu\\source\\repos\\E3\\AccesModTutorial\\AccesModTutorial\\ExampleClass.cs",
+              "RelativeToolTip": "AccesModTutorial\\ExampleClass.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T13:50:22.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oyetu\\source\\repos\\E3\\AccesModTutorial\\AccesModTutorial\\Program.cs",
+              "RelativeDocumentMoniker": "AccesModTutorial\\Program.cs",
+              "ToolTip": "C:\\Users\\oyetu\\source\\repos\\E3\\AccesModTutorial\\AccesModTutorial\\Program.cs",
+              "RelativeToolTip": "AccesModTutorial\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T13:46:32.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
